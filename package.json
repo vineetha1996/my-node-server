@@ -1,0 +1,22 @@
+{
+  "name": "mynodeserver",
+  "version": "1.0.0",
+  "description": "This is my first repo on nodejs and so excited to work more on this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineetha1996/my-node-server.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Vineetha Yenugula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineetha1996/my-node-server/issues"
+  },
+  "homepage": "https://github.com/vineetha1996/my-node-server#readme"
+}
